@@ -7,3 +7,6 @@ helmCharts:
     repo: oci://docker.io/envoyproxy
     releaseName: eg
     namespace: crcd-lmaas
+
+resources:
+  - quickstart.yaml
