@@ -6,4 +6,4 @@ helmCharts:
     version: v1.9.1
     repo: oci://docker.io/envoyproxy
     releaseName: eg
-    namespace: envoy-gateway-system
+    namespace: crcd-lmaas
